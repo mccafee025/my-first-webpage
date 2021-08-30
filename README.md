@@ -3,5 +3,5 @@
 # Description
 a practice website
 
-#author
-Abdirahman Mumi
+# author
+Abdirahman Mumin
